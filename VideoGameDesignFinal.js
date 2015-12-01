@@ -969,7 +969,7 @@ var draw = function() {
         
         drawBackground();
 
-        fill(120, 180, 240);
+        fill(120, 176, 240);
 
         textSize(45);
         text("Flee the Coop!", 50, 140);
